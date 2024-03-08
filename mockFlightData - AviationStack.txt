@@ -1,0 +1,5009 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 100,
+        "total": 16348
+    },
+    "data": [
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Madras International (Meenambakkam)",
+                "timezone": "Asia/Kolkata",
+                "iata": "MAA",
+                "icao": "VOMM",
+                "terminal": "4",
+                "gate": null,
+                "delay": 6,
+                "scheduled": "2024-03-05T05:05:00+00:00",
+                "estimated": "2024-03-05T05:05:00+00:00",
+                "actual": "2024-03-05T05:10:00+00:00",
+                "estimated_runway": "2024-03-05T05:10:00+00:00",
+                "actual_runway": "2024-03-05T05:10:00+00:00"
+            },
+            "arrival": {
+                "airport": "Port Blair",
+                "timezone": "Asia/Kolkata",
+                "iata": "IXZ",
+                "icao": "VOPB",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air India",
+                "iata": "AI",
+                "icao": "AIC"
+            },
+            "flight": {
+                "number": "549",
+                "iata": "AI549",
+                "icao": "AIC549",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Madras International (Meenambakkam)",
+                "timezone": "Asia/Kolkata",
+                "iata": "MAA",
+                "icao": "VOMM",
+                "terminal": "1",
+                "gate": null,
+                "delay": null,
+                "scheduled": "2024-03-05T05:00:00+00:00",
+                "estimated": "2024-03-05T05:00:00+00:00",
+                "actual": "2024-03-05T04:59:00+00:00",
+                "estimated_runway": "2024-03-05T04:59:00+00:00",
+                "actual_runway": "2024-03-05T04:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Lohegaon",
+                "timezone": "Asia/Kolkata",
+                "iata": "PNQ",
+                "icao": "VAPO",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T06:40:00+00:00",
+                "estimated": "2024-03-05T06:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "IndiGo",
+                "iata": "6E",
+                "icao": "IGO"
+            },
+            "flight": {
+                "number": "607",
+                "iata": "6E607",
+                "icao": "IGO607",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "VT-IQP",
+                "iata": "A20N",
+                "icao": "A20N",
+                "icao24": "801647"
+            },
+            "live": {
+                "updated": "2024-03-05T00:13:45+00:00",
+                "latitude": 15.2398,
+                "longitude": 77.3327,
+                "altitude": 11590,
+                "direction": 307.69,
+                "speed_horizontal": 802.728,
+                "speed_vertical": 0,
+                "is_ground": false
+            }
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Madras International (Meenambakkam)",
+                "timezone": "Asia/Kolkata",
+                "iata": "MAA",
+                "icao": "VOMM",
+                "terminal": "4",
+                "gate": null,
+                "delay": 7,
+                "scheduled": "2024-03-05T05:00:00+00:00",
+                "estimated": "2024-03-05T05:00:00+00:00",
+                "actual": "2024-03-05T05:07:00+00:00",
+                "estimated_runway": "2024-03-05T05:07:00+00:00",
+                "actual_runway": "2024-03-05T05:07:00+00:00"
+            },
+            "arrival": {
+                "airport": "Abu Dhabi International",
+                "timezone": "Asia/Dubai",
+                "iata": "AUH",
+                "icao": "OMAA",
+                "terminal": "A",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "1383",
+                "iata": "EY1383",
+                "icao": "ETD1383",
+                "codeshared": {
+                    "airline_name": "air arabia",
+                    "airline_iata": "g9",
+                    "airline_icao": "aby",
+                    "flight_number": "142",
+                    "flight_iata": "g9142",
+                    "flight_icao": "aby142"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Madras International (Meenambakkam)",
+                "timezone": "Asia/Kolkata",
+                "iata": "MAA",
+                "icao": "VOMM",
+                "terminal": "1",
+                "gate": null,
+                "delay": 6,
+                "scheduled": "2024-03-05T04:50:00+00:00",
+                "estimated": "2024-03-05T04:50:00+00:00",
+                "actual": "2024-03-05T04:56:00+00:00",
+                "estimated_runway": "2024-03-05T04:56:00+00:00",
+                "actual_runway": "2024-03-05T04:56:00+00:00"
+            },
+            "arrival": {
+                "airport": "Thiruvananthapuram International",
+                "timezone": "Asia/Kolkata",
+                "iata": "TRV",
+                "icao": "VOTV",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T06:10:00+00:00",
+                "estimated": "2024-03-05T06:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "IndiGo",
+                "iata": "6E",
+                "icao": "IGO"
+            },
+            "flight": {
+                "number": "6001",
+                "iata": "6E6001",
+                "icao": "IGO6001",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "VT-IUV",
+                "iata": "A21N",
+                "icao": "A21N",
+                "icao24": "8013CF"
+            },
+            "live": {
+                "updated": "2024-03-04T23:35:58+00:00",
+                "latitude": 12.9541,
+                "longitude": 80.0794,
+                "altitude": 7299.96,
+                "direction": 211.29,
+                "speed_horizontal": 784.512,
+                "speed_vertical": 33.948,
+                "is_ground": false
+            }
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Madras International (Meenambakkam)",
+                "timezone": "Asia/Kolkata",
+                "iata": "MAA",
+                "icao": "VOMM",
+                "terminal": "1",
+                "gate": null,
+                "delay": 6,
+                "scheduled": "2024-03-05T04:50:00+00:00",
+                "estimated": "2024-03-05T04:50:00+00:00",
+                "actual": "2024-03-05T04:56:00+00:00",
+                "estimated_runway": "2024-03-05T04:56:00+00:00",
+                "actual_runway": "2024-03-05T04:56:00+00:00"
+            },
+            "arrival": {
+                "airport": "Thiruvananthapuram International",
+                "timezone": "Asia/Kolkata",
+                "iata": "TRV",
+                "icao": "VOTV",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T06:10:00+00:00",
+                "estimated": "2024-03-05T06:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "6094",
+                "iata": "AF6094",
+                "icao": "AFR6094",
+                "codeshared": {
+                    "airline_name": "indigo",
+                    "airline_iata": "6e",
+                    "airline_icao": "igo",
+                    "flight_number": "6001",
+                    "flight_iata": "6e6001",
+                    "flight_icao": "igo6001"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "212",
+                "delay": 1,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:00:00+00:00",
+                "estimated_runway": "2024-03-05T08:00:00+00:00",
+                "actual_runway": "2024-03-05T08:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Beijing Daxing International Airport",
+                "timezone": "+8",
+                "iata": "PKX",
+                "icao": "ZBAD",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "34",
+                "delay": null,
+                "scheduled": "2024-03-05T10:40:00+00:00",
+                "estimated": "2024-03-05T10:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "8140",
+                "iata": "MU8140",
+                "icao": "CES8140",
+                "codeshared": {
+                    "airline_name": "china united airlines",
+                    "airline_iata": "kn",
+                    "airline_icao": "cua",
+                    "flight_number": "5729",
+                    "flight_iata": "kn5729",
+                    "flight_icao": "cua5729"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "212",
+                "delay": 1,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:00:00+00:00",
+                "estimated_runway": "2024-03-05T08:00:00+00:00",
+                "actual_runway": "2024-03-05T08:00:00+00:00"
+            },
+            "arrival": {
+                "airport": "Beijing Daxing International Airport",
+                "timezone": "+8",
+                "iata": "PKX",
+                "icao": "ZBAD",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "34",
+                "delay": null,
+                "scheduled": "2024-03-05T10:40:00+00:00",
+                "estimated": "2024-03-05T10:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China United Airlines",
+                "iata": "KN",
+                "icao": "CUA"
+            },
+            "flight": {
+                "number": "5729",
+                "iata": "KN5729",
+                "icao": "CUA5729",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "212",
+                "delay": 10,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:14:00+00:00",
+                "estimated_runway": "2024-03-05T08:14:00+00:00",
+                "actual_runway": "2024-03-05T08:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Zunyi",
+                "timezone": "Asia/Shanghai",
+                "iata": "ZYI",
+                "icao": "ZUZY",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:55:00+00:00",
+                "estimated": "2024-03-05T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Loong Air",
+                "iata": "GJ",
+                "icao": "CDC"
+            },
+            "flight": {
+                "number": "8011",
+                "iata": "GJ8011",
+                "icao": "CDC8011",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "212",
+                "delay": 10,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:14:00+00:00",
+                "estimated_runway": "2024-03-05T08:14:00+00:00",
+                "actual_runway": "2024-03-05T08:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Zunyi",
+                "timezone": "Asia/Shanghai",
+                "iata": "ZYI",
+                "icao": "ZUZY",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:55:00+00:00",
+                "estimated": "2024-03-05T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Sichuan Airlines",
+                "iata": "3U",
+                "icao": "CSC"
+            },
+            "flight": {
+                "number": "4009",
+                "iata": "3U4009",
+                "icao": "CSC4009",
+                "codeshared": {
+                    "airline_name": "loong air",
+                    "airline_iata": "gj",
+                    "airline_icao": "cdc",
+                    "flight_number": "8011",
+                    "flight_iata": "gj8011",
+                    "flight_icao": "cdc8011"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "212",
+                "delay": 10,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:14:00+00:00",
+                "estimated_runway": "2024-03-05T08:14:00+00:00",
+                "actual_runway": "2024-03-05T08:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Zunyi",
+                "timezone": "Asia/Shanghai",
+                "iata": "ZYI",
+                "icao": "ZUZY",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:55:00+00:00",
+                "estimated": "2024-03-05T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Express Air",
+                "iata": "G5",
+                "icao": "HXA"
+            },
+            "flight": {
+                "number": "6309",
+                "iata": "G56309",
+                "icao": "HXA6309",
+                "codeshared": {
+                    "airline_name": "loong air",
+                    "airline_iata": "gj",
+                    "airline_icao": "cdc",
+                    "flight_number": "8011",
+                    "flight_iata": "gj8011",
+                    "flight_icao": "cdc8011"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "212",
+                "delay": 10,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:14:00+00:00",
+                "estimated_runway": "2024-03-05T08:14:00+00:00",
+                "actual_runway": "2024-03-05T08:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Zunyi",
+                "timezone": "Asia/Shanghai",
+                "iata": "ZYI",
+                "icao": "ZUZY",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:55:00+00:00",
+                "estimated": "2024-03-05T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "3581",
+                "iata": "MU3581",
+                "icao": "CES3581",
+                "codeshared": {
+                    "airline_name": "loong air",
+                    "airline_iata": "gj",
+                    "airline_icao": "cdc",
+                    "flight_number": "8011",
+                    "flight_iata": "gj8011",
+                    "flight_icao": "cdc8011"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "D",
+                "delay": 6,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:06:00+00:00",
+                "estimated_runway": "2024-03-05T08:06:00+00:00",
+                "actual_runway": "2024-03-05T08:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shuangliu",
+                "timezone": "Asia/Shanghai",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "19",
+                "delay": 7,
+                "scheduled": "2024-03-05T10:50:00+00:00",
+                "estimated": "2024-03-05T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "8519",
+                "iata": "CA8519",
+                "icao": "CCA8519",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "D",
+                "delay": 6,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:06:00+00:00",
+                "estimated_runway": "2024-03-05T08:06:00+00:00",
+                "actual_runway": "2024-03-05T08:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shuangliu",
+                "timezone": "Asia/Shanghai",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "19",
+                "delay": 7,
+                "scheduled": "2024-03-05T10:50:00+00:00",
+                "estimated": "2024-03-05T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "4809",
+                "iata": "ZH4809",
+                "icao": "CSZ4809",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "8519",
+                    "flight_iata": "ca8519",
+                    "flight_icao": "cca8519"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "219",
+                "delay": 13,
+                "scheduled": "2024-03-05T07:45:00+00:00",
+                "estimated": "2024-03-05T07:45:00+00:00",
+                "actual": "2024-03-05T07:58:00+00:00",
+                "estimated_runway": "2024-03-05T07:58:00+00:00",
+                "actual_runway": "2024-03-05T07:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Guangzhou Baiyun International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CAN",
+                "icao": "ZGGG",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "36",
+                "delay": 4,
+                "scheduled": "2024-03-05T09:45:00+00:00",
+                "estimated": "2024-03-05T09:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Southern Airlines",
+                "iata": "CZ",
+                "icao": "CSN"
+            },
+            "flight": {
+                "number": "3770",
+                "iata": "CZ3770",
+                "icao": "CSN3770",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Wenzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "WNZ",
+                "icao": "ZSWZ",
+                "terminal": "T2",
+                "gate": "212",
+                "delay": 10,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:14:00+00:00",
+                "estimated_runway": "2024-03-05T08:14:00+00:00",
+                "actual_runway": "2024-03-05T08:14:00+00:00"
+            },
+            "arrival": {
+                "airport": "Zunyi",
+                "timezone": "Asia/Shanghai",
+                "iata": "ZYI",
+                "icao": "ZUZY",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:55:00+00:00",
+                "estimated": "2024-03-05T10:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Xiamen Airlines",
+                "iata": "MF",
+                "icao": "CXA"
+            },
+            "flight": {
+                "number": "5711",
+                "iata": "MF5711",
+                "icao": "CXA5711",
+                "codeshared": {
+                    "airline_name": "loong air",
+                    "airline_iata": "gj",
+                    "airline_icao": "cdc",
+                    "flight_number": "8011",
+                    "flight_iata": "gj8011",
+                    "flight_icao": "cdc8011"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Suvarnabhumi International",
+                "timezone": "Asia/Bangkok",
+                "iata": "BKK",
+                "icao": "VTBS",
+                "terminal": null,
+                "gate": null,
+                "delay": 12,
+                "scheduled": "2024-03-05T06:55:00+00:00",
+                "estimated": "2024-03-05T06:55:00+00:00",
+                "actual": "2024-03-05T07:06:00+00:00",
+                "estimated_runway": "2024-03-05T07:06:00+00:00",
+                "actual_runway": "2024-03-05T07:06:00+00:00"
+            },
+            "arrival": {
+                "airport": "Udon Thani",
+                "timezone": "Asia/Bangkok",
+                "iata": "UTH",
+                "icao": "VTUD",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Thai Airways International",
+                "iata": "TG",
+                "icao": "THA"
+            },
+            "flight": {
+                "number": "2",
+                "iata": "TG2",
+                "icao": "THA2",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Suvarnabhumi International",
+                "timezone": "Asia/Bangkok",
+                "iata": "BKK",
+                "icao": "VTBS",
+                "terminal": null,
+                "gate": null,
+                "delay": 31,
+                "scheduled": "2024-03-05T06:50:00+00:00",
+                "estimated": "2024-03-05T06:50:00+00:00",
+                "actual": "2024-03-05T07:20:00+00:00",
+                "estimated_runway": "2024-03-05T07:20:00+00:00",
+                "actual_runway": "2024-03-05T07:20:00+00:00"
+            },
+            "arrival": {
+                "airport": "Phnom Penh International",
+                "timezone": "Asia/Phnom_Penh",
+                "iata": "PNH",
+                "icao": "VDPP",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "delay": 3,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "K-Mile Air",
+                "iata": "8K",
+                "icao": "KMI"
+            },
+            "flight": {
+                "number": "802",
+                "iata": "8K802",
+                "icao": "KMI802",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Suvarnabhumi International",
+                "timezone": "Asia/Bangkok",
+                "iata": "BKK",
+                "icao": "VTBS",
+                "terminal": null,
+                "gate": null,
+                "delay": 3,
+                "scheduled": "2024-03-05T06:55:00+00:00",
+                "estimated": "2024-03-05T06:55:00+00:00",
+                "actual": "2024-03-05T06:58:00+00:00",
+                "estimated_runway": "2024-03-05T06:58:00+00:00",
+                "actual_runway": "2024-03-05T06:58:00+00:00"
+            },
+            "arrival": {
+                "airport": "Khon Kaen",
+                "timezone": "Asia/Bangkok",
+                "iata": "KKC",
+                "icao": "VTUK",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Thai Airways International",
+                "iata": "TG",
+                "icao": "THA"
+            },
+            "flight": {
+                "number": "40",
+                "iata": "TG40",
+                "icao": "THA40",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Suvarnabhumi International",
+                "timezone": "Asia/Bangkok",
+                "iata": "BKK",
+                "icao": "VTBS",
+                "terminal": null,
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2024-03-05T06:35:00+00:00",
+                "estimated": "2024-03-05T06:35:00+00:00",
+                "actual": "2024-03-05T06:37:00+00:00",
+                "estimated_runway": "2024-03-05T06:37:00+00:00",
+                "actual_runway": "2024-03-05T06:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Hat Yai",
+                "timezone": "Asia/Bangkok",
+                "iata": "HDY",
+                "icao": "VTSS",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Thai Airways International",
+                "iata": "TG",
+                "icao": "THA"
+            },
+            "flight": {
+                "number": "259",
+                "iata": "TG259",
+                "icao": "THA259",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Suvarnabhumi International",
+                "timezone": "Asia/Bangkok",
+                "iata": "BKK",
+                "icao": "VTBS",
+                "terminal": null,
+                "gate": null,
+                "delay": 14,
+                "scheduled": "2024-03-05T06:30:00+00:00",
+                "estimated": "2024-03-05T06:30:00+00:00",
+                "actual": "2024-03-05T06:43:00+00:00",
+                "estimated_runway": "2024-03-05T06:43:00+00:00",
+                "actual_runway": "2024-03-05T06:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Netaji Subhas Chandra",
+                "timezone": "Asia/Kolkata",
+                "iata": "CCU",
+                "icao": "VECC",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T07:45:00+00:00",
+                "estimated": "2024-03-05T07:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Bhutan Airlines",
+                "iata": "B3",
+                "icao": "BTN"
+            },
+            "flight": {
+                "number": "701",
+                "iata": "B3701",
+                "icao": "BTN701",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Suvarnabhumi International",
+                "timezone": "Asia/Bangkok",
+                "iata": "BKK",
+                "icao": "VTBS",
+                "terminal": null,
+                "gate": null,
+                "delay": 27,
+                "scheduled": "2024-03-05T06:15:00+00:00",
+                "estimated": "2024-03-05T06:15:00+00:00",
+                "actual": "2024-03-05T06:41:00+00:00",
+                "estimated_runway": "2024-03-05T06:41:00+00:00",
+                "actual_runway": "2024-03-05T06:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Noibai International",
+                "timezone": "Asia/Ho_Chi_Minh",
+                "iata": "HAN",
+                "icao": "VVNB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": 1,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "K-Mile Air",
+                "iata": "8K",
+                "icao": "KMI"
+            },
+            "flight": {
+                "number": "525",
+                "iata": "8K525",
+                "icao": "KMI525",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T2",
+                "gate": null,
+                "delay": 2,
+                "scheduled": "2024-03-05T07:20:00+00:00",
+                "estimated": "2024-03-05T07:20:00+00:00",
+                "actual": "2024-03-05T07:22:00+00:00",
+                "estimated_runway": "2024-03-05T07:22:00+00:00",
+                "actual_runway": "2024-03-05T07:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Xianyang",
+                "timezone": "Asia/Shanghai",
+                "iata": "XIY",
+                "icao": "ZLXY",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:25:00+00:00",
+                "estimated": "2024-03-05T10:25:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Beijing Capital Airlines",
+                "iata": "JD",
+                "icao": "CBJ"
+            },
+            "flight": {
+                "number": "5175",
+                "iata": "JD5175",
+                "icao": "CBJ5175",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": "112",
+                "delay": 9,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:39:00+00:00",
+                "estimated_runway": "2024-03-05T07:39:00+00:00",
+                "actual_runway": "2024-03-05T07:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Guiyang",
+                "timezone": "Asia/Shanghai",
+                "iata": "KWE",
+                "icao": "ZUGY",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2024-03-05T09:25:00+00:00",
+                "estimated": "2024-03-05T09:25:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Loong Air",
+                "iata": "GJ",
+                "icao": "CDC"
+            },
+            "flight": {
+                "number": "5525",
+                "iata": "GJ5525",
+                "icao": "CDC5525",
+                "codeshared": {
+                    "airline_name": "hainan airlines",
+                    "airline_iata": "hu",
+                    "airline_icao": "chh",
+                    "flight_number": "7359",
+                    "flight_iata": "hu7359",
+                    "flight_icao": "chh7359"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": "112",
+                "delay": 9,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:39:00+00:00",
+                "estimated_runway": "2024-03-05T07:39:00+00:00",
+                "actual_runway": "2024-03-05T07:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Guiyang",
+                "timezone": "Asia/Shanghai",
+                "iata": "KWE",
+                "icao": "ZUGY",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "10",
+                "delay": null,
+                "scheduled": "2024-03-05T09:25:00+00:00",
+                "estimated": "2024-03-05T09:25:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Hainan Airlines",
+                "iata": "HU",
+                "icao": "CHH"
+            },
+            "flight": {
+                "number": "7359",
+                "iata": "HU7359",
+                "icao": "CHH7359",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 7,
+                "scheduled": "2024-03-05T07:35:00+00:00",
+                "estimated": "2024-03-05T07:35:00+00:00",
+                "actual": "2024-03-05T07:42:00+00:00",
+                "estimated_runway": "2024-03-05T07:42:00+00:00",
+                "actual_runway": "2024-03-05T07:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "Nanjing Lukou International Airport",
+                "timezone": "Asia/Shanghai",
+                "iata": "NKG",
+                "icao": "ZSNJ",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "105",
+                "delay": null,
+                "scheduled": "2024-03-05T10:45:00+00:00",
+                "estimated": "2024-03-05T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Loong Air",
+                "iata": "GJ",
+                "icao": "CDC"
+            },
+            "flight": {
+                "number": "5573",
+                "iata": "GJ5573",
+                "icao": "CDC5573",
+                "codeshared": {
+                    "airline_name": "hainan airlines",
+                    "airline_iata": "hu",
+                    "airline_icao": "chh",
+                    "flight_number": "7697",
+                    "flight_iata": "hu7697",
+                    "flight_icao": "chh7697"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 7,
+                "scheduled": "2024-03-05T07:35:00+00:00",
+                "estimated": "2024-03-05T07:35:00+00:00",
+                "actual": "2024-03-05T07:42:00+00:00",
+                "estimated_runway": "2024-03-05T07:42:00+00:00",
+                "actual_runway": "2024-03-05T07:42:00+00:00"
+            },
+            "arrival": {
+                "airport": "Nanjing Lukou International Airport",
+                "timezone": "Asia/Shanghai",
+                "iata": "NKG",
+                "icao": "ZSNJ",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "105",
+                "delay": null,
+                "scheduled": "2024-03-05T10:45:00+00:00",
+                "estimated": "2024-03-05T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Hainan Airlines",
+                "iata": "HU",
+                "icao": "CHH"
+            },
+            "flight": {
+                "number": "7697",
+                "iata": "HU7697",
+                "icao": "CHH7697",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": "115",
+                "delay": 10,
+                "scheduled": "2024-03-05T07:40:00+00:00",
+                "estimated": "2024-03-05T07:40:00+00:00",
+                "actual": "2024-03-05T07:49:00+00:00",
+                "estimated_runway": "2024-03-05T07:49:00+00:00",
+                "actual_runway": "2024-03-05T07:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tianhe International",
+                "timezone": "Asia/Shanghai",
+                "iata": "WUH",
+                "icao": "ZHHH",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "20",
+                "delay": null,
+                "scheduled": "2024-03-05T10:05:00+00:00",
+                "estimated": "2024-03-05T10:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Southern Airlines",
+                "iata": "CZ",
+                "icao": "CSN"
+            },
+            "flight": {
+                "number": "6513",
+                "iata": "CZ6513",
+                "icao": "CSN6513",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 7,
+                "scheduled": "2024-03-05T07:50:00+00:00",
+                "estimated": "2024-03-05T07:50:00+00:00",
+                "actual": "2024-03-05T07:57:00+00:00",
+                "estimated_runway": "2024-03-05T07:57:00+00:00",
+                "actual_runway": "2024-03-05T07:57:00+00:00"
+            },
+            "arrival": {
+                "airport": "Hangzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "HGH",
+                "icao": "ZSHC",
+                "terminal": "4",
+                "gate": null,
+                "baggage": "19",
+                "delay": null,
+                "scheduled": "2024-03-05T11:05:00+00:00",
+                "estimated": "2024-03-05T11:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Southern Airlines",
+                "iata": "CZ",
+                "icao": "CSN"
+            },
+            "flight": {
+                "number": "6629",
+                "iata": "CZ6629",
+                "icao": "CSN6629",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "B-8677",
+                "iata": "A321",
+                "icao": "A321",
+                "icao24": "78109C"
+            },
+            "live": {
+                "updated": "2024-03-05T00:47:57+00:00",
+                "latitude": 20.9514,
+                "longitude": 110.595,
+                "altitude": 9479.28,
+                "direction": 83.47,
+                "speed_horizontal": 976.788,
+                "speed_vertical": 0,
+                "is_ground": false
+            }
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 4,
+                "scheduled": "2024-03-05T07:50:00+00:00",
+                "estimated": "2024-03-05T07:50:00+00:00",
+                "actual": "2024-03-05T07:48:00+00:00",
+                "estimated_runway": "2024-03-05T07:48:00+00:00",
+                "actual_runway": "2024-03-05T07:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Nanchang",
+                "timezone": "Asia/Shanghai",
+                "iata": "KHN",
+                "icao": "ZSCN",
+                "terminal": "T2",
+                "gate": null,
+                "baggage": "4",
+                "delay": 7,
+                "scheduled": "2024-03-05T09:55:00+00:00",
+                "estimated": "2024-03-05T09:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Loong Air",
+                "iata": "GJ",
+                "icao": "CDC"
+            },
+            "flight": {
+                "number": "5531",
+                "iata": "GJ5531",
+                "icao": "CDC5531",
+                "codeshared": {
+                    "airline_name": "hainan airlines",
+                    "airline_iata": "hu",
+                    "airline_icao": "chh",
+                    "flight_number": "7387",
+                    "flight_iata": "hu7387",
+                    "flight_icao": "chh7387"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 4,
+                "scheduled": "2024-03-05T07:50:00+00:00",
+                "estimated": "2024-03-05T07:50:00+00:00",
+                "actual": "2024-03-05T07:48:00+00:00",
+                "estimated_runway": "2024-03-05T07:48:00+00:00",
+                "actual_runway": "2024-03-05T07:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Nanchang",
+                "timezone": "Asia/Shanghai",
+                "iata": "KHN",
+                "icao": "ZSCN",
+                "terminal": "T2",
+                "gate": null,
+                "baggage": "4",
+                "delay": 7,
+                "scheduled": "2024-03-05T09:55:00+00:00",
+                "estimated": "2024-03-05T09:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Hainan Airlines",
+                "iata": "HU",
+                "icao": "CHH"
+            },
+            "flight": {
+                "number": "7387",
+                "iata": "HU7387",
+                "icao": "CHH7387",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T2",
+                "gate": "216",
+                "delay": 2,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:55:00+00:00",
+                "estimated_runway": "2024-03-05T07:55:00+00:00",
+                "actual_runway": "2024-03-05T07:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tianhe International",
+                "timezone": "Asia/Shanghai",
+                "iata": "WUH",
+                "icao": "ZHHH",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "06",
+                "delay": null,
+                "scheduled": "2024-03-05T10:40:00+00:00",
+                "estimated": "2024-03-05T10:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Beijing Capital Airlines",
+                "iata": "JD",
+                "icao": "CBJ"
+            },
+            "flight": {
+                "number": "5627",
+                "iata": "JD5627",
+                "icao": "CBJ5627",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 3,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:02:00+00:00",
+                "estimated_runway": "2024-03-05T08:02:00+00:00",
+                "actual_runway": "2024-03-05T08:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Chongqing Jiangbei International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CKG",
+                "icao": "ZUCK",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:30:00+00:00",
+                "estimated": "2024-03-05T10:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Southern Airlines",
+                "iata": "CZ",
+                "icao": "CSN"
+            },
+            "flight": {
+                "number": "9052",
+                "iata": "CZ9052",
+                "icao": "CSN9052",
+                "codeshared": {
+                    "airline_name": "sichuan airlines",
+                    "airline_iata": "3u",
+                    "airline_icao": "csc",
+                    "flight_number": "3209",
+                    "flight_iata": "3u3209",
+                    "flight_icao": "csc3209"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 3,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:02:00+00:00",
+                "estimated_runway": "2024-03-05T08:02:00+00:00",
+                "actual_runway": "2024-03-05T08:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Chongqing Jiangbei International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CKG",
+                "icao": "ZUCK",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:30:00+00:00",
+                "estimated": "2024-03-05T10:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Express Air",
+                "iata": "G5",
+                "icao": "HXA"
+            },
+            "flight": {
+                "number": "8711",
+                "iata": "G58711",
+                "icao": "HXA8711",
+                "codeshared": {
+                    "airline_name": "sichuan airlines",
+                    "airline_iata": "3u",
+                    "airline_icao": "csc",
+                    "flight_number": "3209",
+                    "flight_iata": "3u3209",
+                    "flight_icao": "csc3209"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 3,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:02:00+00:00",
+                "estimated_runway": "2024-03-05T08:02:00+00:00",
+                "actual_runway": "2024-03-05T08:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Chongqing Jiangbei International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CKG",
+                "icao": "ZUCK",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:30:00+00:00",
+                "estimated": "2024-03-05T10:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Xiamen Airlines",
+                "iata": "MF",
+                "icao": "CXA"
+            },
+            "flight": {
+                "number": "5053",
+                "iata": "MF5053",
+                "icao": "CXA5053",
+                "codeshared": {
+                    "airline_name": "sichuan airlines",
+                    "airline_iata": "3u",
+                    "airline_icao": "csc",
+                    "flight_number": "3209",
+                    "flight_iata": "3u3209",
+                    "flight_icao": "csc3209"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Fenghuang International (Phoenix International)",
+                "timezone": "Asia/Shanghai",
+                "iata": "SYX",
+                "icao": "ZJSY",
+                "terminal": "T1",
+                "gate": null,
+                "delay": 3,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T08:02:00+00:00",
+                "estimated_runway": "2024-03-05T08:02:00+00:00",
+                "actual_runway": "2024-03-05T08:02:00+00:00"
+            },
+            "arrival": {
+                "airport": "Chongqing Jiangbei International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CKG",
+                "icao": "ZUCK",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:30:00+00:00",
+                "estimated": "2024-03-05T10:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Sichuan Airlines",
+                "iata": "3U",
+                "icao": "CSC"
+            },
+            "flight": {
+                "number": "3209",
+                "iata": "3U3209",
+                "icao": "CSC3209",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Omsk",
+                "timezone": "Asia/Omsk",
+                "iata": "OMS",
+                "icao": "UNOO",
+                "terminal": null,
+                "gate": null,
+                "delay": 10,
+                "scheduled": "2024-03-05T05:40:00+00:00",
+                "estimated": "2024-03-05T05:40:00+00:00",
+                "actual": "2024-03-05T05:49:00+00:00",
+                "estimated_runway": "2024-03-05T05:49:00+00:00",
+                "actual_runway": "2024-03-05T05:49:00+00:00"
+            },
+            "arrival": {
+                "airport": "Sheremetyevo International",
+                "timezone": "Europe/Moscow",
+                "iata": "SVO",
+                "icao": "UUEE",
+                "terminal": "B",
+                "gate": "108",
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2024-03-05T06:20:00+00:00",
+                "estimated": "2024-03-05T06:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aeroflot",
+                "iata": "SU",
+                "icao": "AFL"
+            },
+            "flight": {
+                "number": "1763",
+                "iata": "SU1763",
+                "icao": "AFL1763",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Istanbul Airport",
+                "timezone": "Europe/Istanbul",
+                "iata": "IST",
+                "icao": "LTFM",
+                "terminal": null,
+                "gate": "F7B",
+                "delay": 12,
+                "scheduled": "2024-03-05T00:45:00+00:00",
+                "estimated": "2024-03-05T00:45:00+00:00",
+                "actual": "2024-03-05T00:56:00+00:00",
+                "estimated_runway": "2024-03-05T00:56:00+00:00",
+                "actual_runway": "2024-03-05T00:56:00+00:00"
+            },
+            "arrival": {
+                "airport": "Novo Alexeyevka International",
+                "timezone": "Asia/Tbilisi",
+                "iata": "TBS",
+                "icao": "UGTB",
+                "terminal": "T1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T04:05:00+00:00",
+                "estimated": "2024-03-05T04:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "EgyptAir",
+                "iata": "MS",
+                "icao": "MSR"
+            },
+            "flight": {
+                "number": "9308",
+                "iata": "MS9308",
+                "icao": "MSR9308",
+                "codeshared": {
+                    "airline_name": "turkish airlines",
+                    "airline_iata": "tk",
+                    "airline_icao": "thy",
+                    "flight_number": "386",
+                    "flight_iata": "tk386",
+                    "flight_icao": "thy386"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Kuching",
+                "timezone": "Asia/Kuching",
+                "iata": "KCH",
+                "icao": "WBGG",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": "2024-03-05T07:56:00+00:00",
+                "estimated_runway": "2024-03-05T07:56:00+00:00",
+                "actual_runway": "2024-03-05T07:56:00+00:00"
+            },
+            "arrival": {
+                "airport": "Kuala Lumpur International Airport (klia)",
+                "timezone": "Asia/Kuala_Lumpur",
+                "iata": "KUL",
+                "icao": "WMKK",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T09:50:00+00:00",
+                "estimated": "2024-03-05T09:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "AirAsia",
+                "iata": "AK",
+                "icao": "AXM"
+            },
+            "flight": {
+                "number": "5205",
+                "iata": "AK5205",
+                "icao": "AXM5205",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Shanghai Pudong International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PVG",
+                "icao": "ZSPD",
+                "terminal": "2",
+                "gate": "K",
+                "delay": 9,
+                "scheduled": "2024-03-05T07:00:00+00:00",
+                "estimated": "2024-03-05T07:00:00+00:00",
+                "actual": "2024-03-05T07:09:00+00:00",
+                "estimated_runway": "2024-03-05T07:09:00+00:00",
+                "actual_runway": "2024-03-05T07:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Harbin",
+                "timezone": "Asia/Shanghai",
+                "iata": "HRB",
+                "icao": "ZYHB",
+                "terminal": "T2",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2024-03-05T10:00:00+00:00",
+                "estimated": "2024-03-05T10:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "4849",
+                "iata": "ZH4849",
+                "icao": "CSZ4849",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "8571",
+                    "flight_iata": "ca8571",
+                    "flight_icao": "cca8571"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Phuket International",
+                "timezone": "Asia/Bangkok",
+                "iata": "HKT",
+                "icao": "VTSP",
+                "terminal": "I",
+                "gate": null,
+                "delay": 6,
+                "scheduled": "2024-03-05T00:35:00+00:00",
+                "estimated": "2024-03-05T00:35:00+00:00",
+                "actual": "2024-03-05T00:41:00+00:00",
+                "estimated_runway": "2024-03-05T00:41:00+00:00",
+                "actual_runway": "2024-03-05T00:41:00+00:00"
+            },
+            "arrival": {
+                "airport": "Doha International",
+                "timezone": "Asia/Qatar",
+                "iata": "DOH",
+                "icao": "OTHH",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2024-03-05T03:40:00+00:00",
+                "estimated": "2024-03-05T03:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Finnair",
+                "iata": "AY",
+                "icao": "FIN"
+            },
+            "flight": {
+                "number": "6526",
+                "iata": "AY6526",
+                "icao": "FIN6526",
+                "codeshared": {
+                    "airline_name": "qatar airways",
+                    "airline_iata": "qr",
+                    "airline_icao": "qtr",
+                    "flight_number": "841",
+                    "flight_iata": "qr841",
+                    "flight_icao": "qtr841"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Soekarno-Hatta International",
+                "timezone": "Asia/Jakarta",
+                "iata": "CGK",
+                "icao": "WIII",
+                "terminal": "3",
+                "gate": null,
+                "delay": 15,
+                "scheduled": "2024-03-05T06:40:00+00:00",
+                "estimated": "2024-03-05T06:40:00+00:00",
+                "actual": "2024-03-05T06:55:00+00:00",
+                "estimated_runway": "2024-03-05T06:55:00+00:00",
+                "actual_runway": "2024-03-05T06:55:00+00:00"
+            },
+            "arrival": {
+                "airport": "Sjamsudin Noor",
+                "timezone": "Asia/Makassar",
+                "iata": "BDJ",
+                "icao": "WAOO",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T09:30:00+00:00",
+                "estimated": "2024-03-05T09:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Philippine Airlines",
+                "iata": "PR",
+                "icao": "PAL"
+            },
+            "flight": {
+                "number": "3282",
+                "iata": "PR3282",
+                "icao": "PAL3282",
+                "codeshared": {
+                    "airline_name": "garuda indonesia",
+                    "airline_iata": "ga",
+                    "airline_icao": "gia",
+                    "flight_number": "530",
+                    "flight_iata": "ga530",
+                    "flight_icao": "gia530"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Soekarno-Hatta International",
+                "timezone": "Asia/Jakarta",
+                "iata": "CGK",
+                "icao": "WIII",
+                "terminal": "3",
+                "gate": null,
+                "delay": 19,
+                "scheduled": "2024-03-05T07:10:00+00:00",
+                "estimated": "2024-03-05T07:10:00+00:00",
+                "actual": "2024-03-05T07:29:00+00:00",
+                "estimated_runway": "2024-03-05T07:29:00+00:00",
+                "actual_runway": "2024-03-05T07:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Juanda",
+                "timezone": "Asia/Jakarta",
+                "iata": "SUB",
+                "icao": "WARR",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T08:50:00+00:00",
+                "estimated": "2024-03-05T08:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Garuda Indonesia",
+                "iata": "GA",
+                "icao": "GIA"
+            },
+            "flight": {
+                "number": "448",
+                "iata": "GA448",
+                "icao": "GIA448",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Soekarno-Hatta International",
+                "timezone": "Asia/Jakarta",
+                "iata": "CGK",
+                "icao": "WIII",
+                "terminal": "3",
+                "gate": "E",
+                "delay": 5,
+                "scheduled": "2024-03-05T07:10:00+00:00",
+                "estimated": "2024-03-05T07:10:00+00:00",
+                "actual": "2024-03-05T07:15:00+00:00",
+                "estimated_runway": "2024-03-05T07:15:00+00:00",
+                "actual_runway": "2024-03-05T07:15:00+00:00"
+            },
+            "arrival": {
+                "airport": "Sjamsudin Noor",
+                "timezone": "Asia/Makassar",
+                "iata": "BDJ",
+                "icao": "WAOO",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "3",
+                "delay": null,
+                "scheduled": "2024-03-05T09:55:00+00:00",
+                "estimated": "2024-03-05T09:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Citilink",
+                "iata": "QG",
+                "icao": "CTV"
+            },
+            "flight": {
+                "number": "480",
+                "iata": "QG480",
+                "icao": "CTV480",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Soekarno-Hatta International",
+                "timezone": "Asia/Jakarta",
+                "iata": "CGK",
+                "icao": "WIII",
+                "terminal": "2",
+                "gate": "F3",
+                "delay": null,
+                "scheduled": "2024-03-05T07:10:00+00:00",
+                "estimated": "2024-03-05T07:10:00+00:00",
+                "actual": "2024-03-05T07:09:00+00:00",
+                "estimated_runway": "2024-03-05T07:09:00+00:00",
+                "actual_runway": "2024-03-05T07:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Singapore Changi",
+                "timezone": "Asia/Singapore",
+                "iata": "SIN",
+                "icao": "WSSS",
+                "terminal": "4",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2024-03-05T09:55:00+00:00",
+                "estimated": "2024-03-05T09:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "AirAsia",
+                "iata": "AK",
+                "icao": "AXM"
+            },
+            "flight": {
+                "number": "262",
+                "iata": "AK262",
+                "icao": "AXM262",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Soekarno-Hatta International",
+                "timezone": "Asia/Jakarta",
+                "iata": "CGK",
+                "icao": "WIII",
+                "terminal": "2",
+                "gate": "F2",
+                "delay": 3,
+                "scheduled": "2024-03-05T07:15:00+00:00",
+                "estimated": "2024-03-05T07:15:00+00:00",
+                "actual": "2024-03-05T07:17:00+00:00",
+                "estimated_runway": "2024-03-05T07:17:00+00:00",
+                "actual_runway": "2024-03-05T07:17:00+00:00"
+            },
+            "arrival": {
+                "airport": "Don Muang",
+                "timezone": "Asia/Bangkok",
+                "iata": "DMK",
+                "icao": "VTBD",
+                "terminal": "1",
+                "gate": "14",
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:50:00+00:00",
+                "estimated": "2024-03-05T10:50:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "AirAsia",
+                "iata": "AK",
+                "icao": "AXM"
+            },
+            "flight": {
+                "number": "250",
+                "iata": "AK250",
+                "icao": "AXM250",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Chhatrapati Shivaji International (Sahar International)",
+                "timezone": "Asia/Kolkata",
+                "iata": "BOM",
+                "icao": "VABB",
+                "terminal": "1",
+                "gate": null,
+                "delay": 8,
+                "scheduled": "2024-03-05T05:05:00+00:00",
+                "estimated": "2024-03-05T05:05:00+00:00",
+                "actual": "2024-03-05T05:12:00+00:00",
+                "estimated_runway": "2024-03-05T05:12:00+00:00",
+                "actual_runway": "2024-03-05T05:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Sanganeer",
+                "timezone": "Asia/Kolkata",
+                "iata": "JAI",
+                "icao": "VIJP",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T06:40:00+00:00",
+                "estimated": "2024-03-05T06:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "IndiGo",
+                "iata": "6E",
+                "icao": "IGO"
+            },
+            "flight": {
+                "number": "5052",
+                "iata": "6E5052",
+                "icao": "IGO5052",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "VT-IBQ",
+                "iata": "A21N",
+                "icao": "A21N",
+                "icao24": "8015CB"
+            },
+            "live": {
+                "updated": "2024-03-05T00:31:37+00:00",
+                "latitude": 24.9064,
+                "longitude": 74.436,
+                "altitude": 10066,
+                "direction": 20,
+                "speed_horizontal": 937.112,
+                "speed_vertical": 0,
+                "is_ground": false
+            }
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Chhatrapati Shivaji International (Sahar International)",
+                "timezone": "Asia/Kolkata",
+                "iata": "BOM",
+                "icao": "VABB",
+                "terminal": "1",
+                "gate": null,
+                "delay": 8,
+                "scheduled": "2024-03-05T05:05:00+00:00",
+                "estimated": "2024-03-05T05:05:00+00:00",
+                "actual": "2024-03-05T05:12:00+00:00",
+                "estimated_runway": "2024-03-05T05:12:00+00:00",
+                "actual_runway": "2024-03-05T05:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Sanganeer",
+                "timezone": "Asia/Kolkata",
+                "iata": "JAI",
+                "icao": "VIJP",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T06:40:00+00:00",
+                "estimated": "2024-03-05T06:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Virgin Atlantic",
+                "iata": "VS",
+                "icao": "VIR"
+            },
+            "flight": {
+                "number": "8306",
+                "iata": "VS8306",
+                "icao": "VIR8306",
+                "codeshared": {
+                    "airline_name": "indigo",
+                    "airline_iata": "6e",
+                    "airline_icao": "igo",
+                    "flight_number": "5052",
+                    "flight_iata": "6e5052",
+                    "flight_icao": "igo5052"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Chhatrapati Shivaji International (Sahar International)",
+                "timezone": "Asia/Kolkata",
+                "iata": "BOM",
+                "icao": "VABB",
+                "terminal": "1",
+                "gate": null,
+                "delay": 8,
+                "scheduled": "2024-03-05T05:05:00+00:00",
+                "estimated": "2024-03-05T05:05:00+00:00",
+                "actual": "2024-03-05T05:12:00+00:00",
+                "estimated_runway": "2024-03-05T05:12:00+00:00",
+                "actual_runway": "2024-03-05T05:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Sanganeer",
+                "timezone": "Asia/Kolkata",
+                "iata": "JAI",
+                "icao": "VIJP",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T06:40:00+00:00",
+                "estimated": "2024-03-05T06:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "3789",
+                "iata": "AF3789",
+                "icao": "AFR3789",
+                "codeshared": {
+                    "airline_name": "indigo",
+                    "airline_iata": "6e",
+                    "airline_icao": "igo",
+                    "flight_number": "5052",
+                    "flight_iata": "6e5052",
+                    "flight_icao": "igo5052"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Chhatrapati Shivaji International (Sahar International)",
+                "timezone": "Asia/Kolkata",
+                "iata": "BOM",
+                "icao": "VABB",
+                "terminal": "2",
+                "gate": null,
+                "delay": 30,
+                "scheduled": "2024-03-05T05:00:00+00:00",
+                "estimated": "2024-03-05T05:00:00+00:00",
+                "actual": "2024-03-05T05:29:00+00:00",
+                "estimated_runway": "2024-03-05T05:29:00+00:00",
+                "actual_runway": "2024-03-05T05:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Cochin International",
+                "timezone": "Asia/Kolkata",
+                "iata": "COK",
+                "icao": "VOCI",
+                "terminal": "1",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T07:05:00+00:00",
+                "estimated": "2024-03-05T07:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air India",
+                "iata": "AI",
+                "icao": "AIC"
+            },
+            "flight": {
+                "number": "691",
+                "iata": "AI691",
+                "icao": "AIC691",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Chhatrapati Shivaji International (Sahar International)",
+                "timezone": "Asia/Kolkata",
+                "iata": "BOM",
+                "icao": "VABB",
+                "terminal": "2",
+                "gate": "71",
+                "delay": 19,
+                "scheduled": "2024-03-05T04:30:00+00:00",
+                "estimated": "2024-03-05T04:30:00+00:00",
+                "actual": "2024-03-05T04:48:00+00:00",
+                "estimated_runway": "2024-03-05T04:48:00+00:00",
+                "actual_runway": "2024-03-05T04:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Abu Dhabi International",
+                "timezone": "Asia/Dubai",
+                "iata": "AUH",
+                "icao": "OMAA",
+                "terminal": "A",
+                "gate": "B18",
+                "baggage": null,
+                "delay": 5,
+                "scheduled": "2024-03-05T06:05:00+00:00",
+                "estimated": "2024-03-05T06:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Etihad Airways",
+                "iata": "EY",
+                "icao": "ETD"
+            },
+            "flight": {
+                "number": "205",
+                "iata": "EY205",
+                "icao": "ETD205",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Chhatrapati Shivaji International (Sahar International)",
+                "timezone": "Asia/Kolkata",
+                "iata": "BOM",
+                "icao": "VABB",
+                "terminal": "2",
+                "gate": "71",
+                "delay": 19,
+                "scheduled": "2024-03-05T04:30:00+00:00",
+                "estimated": "2024-03-05T04:30:00+00:00",
+                "actual": "2024-03-05T04:48:00+00:00",
+                "estimated_runway": "2024-03-05T04:48:00+00:00",
+                "actual_runway": "2024-03-05T04:48:00+00:00"
+            },
+            "arrival": {
+                "airport": "Abu Dhabi International",
+                "timezone": "Asia/Dubai",
+                "iata": "AUH",
+                "icao": "OMAA",
+                "terminal": "A",
+                "gate": "B18",
+                "baggage": null,
+                "delay": 5,
+                "scheduled": "2024-03-05T06:05:00+00:00",
+                "estimated": "2024-03-05T06:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air France",
+                "iata": "AF",
+                "icao": "AFR"
+            },
+            "flight": {
+                "number": "4327",
+                "iata": "AF4327",
+                "icao": "AFR4327",
+                "codeshared": {
+                    "airline_name": "etihad airways",
+                    "airline_iata": "ey",
+                    "airline_icao": "etd",
+                    "flight_number": "205",
+                    "flight_iata": "ey205",
+                    "flight_icao": "etd205"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Kunming",
+                "timezone": "Asia/Shanghai",
+                "iata": "KMG",
+                "icao": "ZPPP",
+                "terminal": null,
+                "gate": "E11-",
+                "delay": 7,
+                "scheduled": "2024-03-05T07:20:00+00:00",
+                "estimated": "2024-03-05T07:20:00+00:00",
+                "actual": "2024-03-05T07:26:00+00:00",
+                "estimated_runway": "2024-03-05T07:26:00+00:00",
+                "actual_runway": "2024-03-05T07:26:00+00:00"
+            },
+            "arrival": {
+                "airport": "Chongqing Jiangbei International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CKG",
+                "icao": "ZUCK",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "6",
+                "delay": null,
+                "scheduled": "2024-03-05T08:55:00+00:00",
+                "estimated": "2024-03-05T08:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Xiamen Airlines",
+                "iata": "MF",
+                "icao": "CXA"
+            },
+            "flight": {
+                "number": "3895",
+                "iata": "MF3895",
+                "icao": "CXA3895",
+                "codeshared": {
+                    "airline_name": "china eastern airlines",
+                    "airline_iata": "mu",
+                    "airline_icao": "ces",
+                    "flight_number": "5863",
+                    "flight_iata": "mu5863",
+                    "flight_icao": "ces5863"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Melbourne - Tullamarine Airport",
+                "timezone": "Australia/Melbourne",
+                "iata": "MEL",
+                "icao": "YMML",
+                "terminal": "2",
+                "gate": "7",
+                "delay": 17,
+                "scheduled": "2024-03-05T07:45:00+00:00",
+                "estimated": "2024-03-05T07:45:00+00:00",
+                "actual": "2024-03-05T08:01:00+00:00",
+                "estimated_runway": "2024-03-05T08:01:00+00:00",
+                "actual_runway": "2024-03-05T08:01:00+00:00"
+            },
+            "arrival": {
+                "airport": "Ngurah Rai International",
+                "timezone": "Asia/Makassar",
+                "iata": "DPS",
+                "icao": "WADD",
+                "terminal": "I",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2024-03-05T11:00:00+00:00",
+                "estimated": "2024-03-05T11:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Batik Air",
+                "iata": "ID",
+                "icao": "BTK"
+            },
+            "flight": {
+                "number": "178",
+                "iata": "ID178",
+                "icao": "BTK178",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Entebbe",
+                "timezone": "Africa/Kampala",
+                "iata": "EBB",
+                "icao": "HUEN",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2024-03-05T02:45:00+00:00",
+                "estimated": "2024-03-05T02:45:00+00:00",
+                "actual": "2024-03-05T02:29:00+00:00",
+                "estimated_runway": "2024-03-05T02:29:00+00:00",
+                "actual_runway": "2024-03-05T02:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bole International",
+                "timezone": "Africa/Addis_Ababa",
+                "iata": "ADD",
+                "icao": "HAAB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T04:55:00+00:00",
+                "estimated": "2024-03-05T04:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Ethiopian Airlines",
+                "iata": "ET",
+                "icao": "ETH"
+            },
+            "flight": {
+                "number": "339",
+                "iata": "ET339",
+                "icao": "ETH339",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Entebbe",
+                "timezone": "Africa/Kampala",
+                "iata": "EBB",
+                "icao": "HUEN",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2024-03-05T02:45:00+00:00",
+                "estimated": "2024-03-05T02:45:00+00:00",
+                "actual": "2024-03-05T02:29:00+00:00",
+                "estimated_runway": "2024-03-05T02:29:00+00:00",
+                "actual_runway": "2024-03-05T02:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bole International",
+                "timezone": "Africa/Addis_Ababa",
+                "iata": "ADD",
+                "icao": "HAAB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T04:55:00+00:00",
+                "estimated": "2024-03-05T04:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "flynas",
+                "iata": "XY",
+                "icao": "KNE"
+            },
+            "flight": {
+                "number": "6339",
+                "iata": "XY6339",
+                "icao": "KNE6339",
+                "codeshared": {
+                    "airline_name": "ethiopian airlines",
+                    "airline_iata": "et",
+                    "airline_icao": "eth",
+                    "flight_number": "339",
+                    "flight_iata": "et339",
+                    "flight_icao": "eth339"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Entebbe",
+                "timezone": "Africa/Kampala",
+                "iata": "EBB",
+                "icao": "HUEN",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2024-03-05T02:45:00+00:00",
+                "estimated": "2024-03-05T02:45:00+00:00",
+                "actual": "2024-03-05T02:29:00+00:00",
+                "estimated_runway": "2024-03-05T02:29:00+00:00",
+                "actual_runway": "2024-03-05T02:29:00+00:00"
+            },
+            "arrival": {
+                "airport": "Bole International",
+                "timezone": "Africa/Addis_Ababa",
+                "iata": "ADD",
+                "icao": "HAAB",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T04:55:00+00:00",
+                "estimated": "2024-03-05T04:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air India",
+                "iata": "AI",
+                "icao": "AIC"
+            },
+            "flight": {
+                "number": "7545",
+                "iata": "AI7545",
+                "icao": "AIC7545",
+                "codeshared": {
+                    "airline_name": "ethiopian airlines",
+                    "airline_iata": "et",
+                    "airline_icao": "eth",
+                    "flight_number": "339",
+                    "flight_iata": "et339",
+                    "flight_icao": "eth339"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Tottori",
+                "timezone": "Asia/Tokyo",
+                "iata": "TTJ",
+                "icao": "RJOR",
+                "terminal": null,
+                "gate": "1",
+                "delay": 2,
+                "scheduled": "2024-03-05T08:30:00+00:00",
+                "estimated": "2024-03-05T08:30:00+00:00",
+                "actual": "2024-03-05T08:31:00+00:00",
+                "estimated_runway": "2024-03-05T08:31:00+00:00",
+                "actual_runway": "2024-03-05T08:31:00+00:00"
+            },
+            "arrival": {
+                "airport": "Haneda Airport",
+                "timezone": "Asia/Tokyo",
+                "iata": "HND",
+                "icao": "RJTT",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T09:45:00+00:00",
+                "estimated": "2024-03-05T09:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "ANA",
+                "iata": "NH",
+                "icao": "ANA"
+            },
+            "flight": {
+                "number": "294",
+                "iata": "NH294",
+                "icao": "ANA294",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Karratha",
+                "timezone": "Australia/Perth",
+                "iata": "KTA",
+                "icao": "YPKA",
+                "terminal": null,
+                "gate": null,
+                "delay": 23,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:22:00+00:00",
+                "estimated_runway": "2024-03-05T08:22:00+00:00",
+                "actual_runway": "2024-03-05T08:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Perth International",
+                "timezone": "Australia/Perth",
+                "iata": "PER",
+                "icao": "YPPH",
+                "terminal": "3",
+                "gate": "17",
+                "baggage": null,
+                "delay": 10,
+                "scheduled": "2024-03-05T10:00:00+00:00",
+                "estimated": "2024-03-05T10:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Qantas",
+                "iata": "QF",
+                "icao": "QFA"
+            },
+            "flight": {
+                "number": "1213",
+                "iata": "QF1213",
+                "icao": "QFA1213",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Karratha",
+                "timezone": "Australia/Perth",
+                "iata": "KTA",
+                "icao": "YPKA",
+                "terminal": null,
+                "gate": null,
+                "delay": 23,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:22:00+00:00",
+                "estimated_runway": "2024-03-05T08:22:00+00:00",
+                "actual_runway": "2024-03-05T08:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Perth International",
+                "timezone": "Australia/Perth",
+                "iata": "PER",
+                "icao": "YPPH",
+                "terminal": "3",
+                "gate": "17",
+                "baggage": null,
+                "delay": 10,
+                "scheduled": "2024-03-05T10:00:00+00:00",
+                "estimated": "2024-03-05T10:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air New Zealand",
+                "iata": "NZ",
+                "icao": "ANZ"
+            },
+            "flight": {
+                "number": "7465",
+                "iata": "NZ7465",
+                "icao": "ANZ7465",
+                "codeshared": {
+                    "airline_name": "qantas",
+                    "airline_iata": "qf",
+                    "airline_icao": "qfa",
+                    "flight_number": "1213",
+                    "flight_iata": "qf1213",
+                    "flight_icao": "qfa1213"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Karratha",
+                "timezone": "Australia/Perth",
+                "iata": "KTA",
+                "icao": "YPKA",
+                "terminal": null,
+                "gate": null,
+                "delay": 23,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:22:00+00:00",
+                "estimated_runway": "2024-03-05T08:22:00+00:00",
+                "actual_runway": "2024-03-05T08:22:00+00:00"
+            },
+            "arrival": {
+                "airport": "Perth International",
+                "timezone": "Australia/Perth",
+                "iata": "PER",
+                "icao": "YPPH",
+                "terminal": "3",
+                "gate": "17",
+                "baggage": null,
+                "delay": 10,
+                "scheduled": "2024-03-05T10:00:00+00:00",
+                "estimated": "2024-03-05T10:00:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Emirates",
+                "iata": "EK",
+                "icao": "UAE"
+            },
+            "flight": {
+                "number": "5364",
+                "iata": "EK5364",
+                "icao": "UAE5364",
+                "codeshared": {
+                    "airline_name": "qantas",
+                    "airline_iata": "qf",
+                    "airline_icao": "qfa",
+                    "flight_number": "1213",
+                    "flight_iata": "qf1213",
+                    "flight_icao": "qfa1213"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "2H18",
+                "delay": 9,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:09:00+00:00",
+                "estimated_runway": "2024-03-05T08:09:00+00:00",
+                "actual_runway": "2024-03-05T08:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shanghai Hongqiao International",
+                "timezone": "Asia/Shanghai",
+                "iata": "SHA",
+                "icao": "ZSSS",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "31",
+                "delay": null,
+                "scheduled": "2024-03-05T10:15:00+00:00",
+                "estimated": "2024-03-05T10:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "5102",
+                "iata": "MU5102",
+                "icao": "CES5102",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "2H18",
+                "delay": 9,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:09:00+00:00",
+                "estimated_runway": "2024-03-05T08:09:00+00:00",
+                "actual_runway": "2024-03-05T08:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shanghai Hongqiao International",
+                "timezone": "Asia/Shanghai",
+                "iata": "SHA",
+                "icao": "ZSSS",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "31",
+                "delay": null,
+                "scheduled": "2024-03-05T10:15:00+00:00",
+                "estimated": "2024-03-05T10:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Juneyao Airlines",
+                "iata": "HO",
+                "icao": "DKH"
+            },
+            "flight": {
+                "number": "5331",
+                "iata": "HO5331",
+                "icao": "DKH5331",
+                "codeshared": {
+                    "airline_name": "china eastern airlines",
+                    "airline_iata": "mu",
+                    "airline_icao": "ces",
+                    "flight_number": "5102",
+                    "flight_iata": "mu5102",
+                    "flight_icao": "ces5102"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "2H18",
+                "delay": 9,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:09:00+00:00",
+                "estimated_runway": "2024-03-05T08:09:00+00:00",
+                "actual_runway": "2024-03-05T08:09:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shanghai Hongqiao International",
+                "timezone": "Asia/Shanghai",
+                "iata": "SHA",
+                "icao": "ZSSS",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "31",
+                "delay": null,
+                "scheduled": "2024-03-05T10:15:00+00:00",
+                "estimated": "2024-03-05T10:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Express Air",
+                "iata": "G5",
+                "icao": "HXA"
+            },
+            "flight": {
+                "number": "6900",
+                "iata": "G56900",
+                "icao": "HXA6900",
+                "codeshared": {
+                    "airline_name": "china eastern airlines",
+                    "airline_iata": "mu",
+                    "airline_icao": "ces",
+                    "flight_number": "5102",
+                    "flight_iata": "mu5102",
+                    "flight_icao": "ces5102"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Kunming",
+                "timezone": "Asia/Shanghai",
+                "iata": "KMG",
+                "icao": "ZPPP",
+                "terminal": null,
+                "gate": "E11-",
+                "delay": 9,
+                "scheduled": "2024-03-05T06:55:00+00:00",
+                "estimated": "2024-03-05T06:55:00+00:00",
+                "actual": "2024-03-05T07:03:00+00:00",
+                "estimated_runway": "2024-03-05T07:03:00+00:00",
+                "actual_runway": "2024-03-05T07:03:00+00:00"
+            },
+            "arrival": {
+                "airport": "Hangzhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "HGH",
+                "icao": "ZSHC",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "B10",
+                "delay": null,
+                "scheduled": "2024-03-05T09:30:00+00:00",
+                "estimated": "2024-03-05T09:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Express Air",
+                "iata": "G5",
+                "icao": "HXA"
+            },
+            "flight": {
+                "number": "6790",
+                "iata": "G56790",
+                "icao": "HXA6790",
+                "codeshared": {
+                    "airline_name": "china eastern airlines",
+                    "airline_iata": "mu",
+                    "airline_icao": "ces",
+                    "flight_number": "6482",
+                    "flight_iata": "mu6482",
+                    "flight_icao": "ces6482"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Kunming",
+                "timezone": "Asia/Shanghai",
+                "iata": "KMG",
+                "icao": "ZPPP",
+                "terminal": null,
+                "gate": "E11-",
+                "delay": 1,
+                "scheduled": "2024-03-05T06:55:00+00:00",
+                "estimated": "2024-03-05T06:55:00+00:00",
+                "actual": "2024-03-05T06:50:00+00:00",
+                "estimated_runway": "2024-03-05T06:50:00+00:00",
+                "actual_runway": "2024-03-05T06:50:00+00:00"
+            },
+            "arrival": {
+                "airport": "Baoshan",
+                "timezone": "Asia/Shanghai",
+                "iata": "BSD",
+                "icao": "ZPBS",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "1",
+                "delay": null,
+                "scheduled": "2024-03-05T08:05:00+00:00",
+                "estimated": "2024-03-05T08:05:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Eastern Airlines",
+                "iata": "MU",
+                "icao": "CES"
+            },
+            "flight": {
+                "number": "5989",
+                "iata": "MU5989",
+                "icao": "CES5989",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Kunming",
+                "timezone": "Asia/Shanghai",
+                "iata": "KMG",
+                "icao": "ZPPP",
+                "terminal": null,
+                "gate": "325",
+                "delay": 28,
+                "scheduled": "2024-03-05T06:50:00+00:00",
+                "estimated": "2024-03-05T06:50:00+00:00",
+                "actual": "2024-03-05T07:17:00+00:00",
+                "estimated_runway": "2024-03-05T07:17:00+00:00",
+                "actual_runway": "2024-03-05T07:17:00+00:00"
+            },
+            "arrival": {
+                "airport": "Yancheng",
+                "timezone": "Asia/Shanghai",
+                "iata": "YNZ",
+                "icao": "ZSYN",
+                "terminal": "T2",
+                "gate": null,
+                "baggage": null,
+                "delay": 1,
+                "scheduled": "2024-03-05T09:35:00+00:00",
+                "estimated": "2024-03-05T09:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Lucky Air",
+                "iata": "8L",
+                "icao": "LKE"
+            },
+            "flight": {
+                "number": "9863",
+                "iata": "8L9863",
+                "icao": "LKE9863",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Kunming",
+                "timezone": "Asia/Shanghai",
+                "iata": "KMG",
+                "icao": "ZPPP",
+                "terminal": null,
+                "gate": null,
+                "delay": 16,
+                "scheduled": "2024-03-05T06:50:00+00:00",
+                "estimated": "2024-03-05T06:50:00+00:00",
+                "actual": "2024-03-05T07:05:00+00:00",
+                "estimated_runway": "2024-03-05T07:05:00+00:00",
+                "actual_runway": "2024-03-05T07:05:00+00:00"
+            },
+            "arrival": {
+                "airport": "Taizhou",
+                "timezone": "Asia/Shanghai",
+                "iata": "YTY",
+                "icao": "ZSYA",
+                "terminal": "4",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T09:40:00+00:00",
+                "estimated": "2024-03-05T09:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Kunming Airlines",
+                "iata": "KY",
+                "icao": "KNA"
+            },
+            "flight": {
+                "number": "3205",
+                "iata": "KY3205",
+                "icao": "KNA3205",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 11,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:11:00+00:00",
+                "estimated_runway": "2024-03-05T08:11:00+00:00",
+                "actual_runway": "2024-03-05T08:11:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shanghai Pudong International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PVG",
+                "icao": "ZSPD",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "38",
+                "delay": null,
+                "scheduled": "2024-03-05T10:15:00+00:00",
+                "estimated": "2024-03-05T10:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "1835",
+                "iata": "CA1835",
+                "icao": "CCA1835",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 14,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:13:00+00:00",
+                "estimated_runway": "2024-03-05T08:13:00+00:00",
+                "actual_runway": "2024-03-05T08:13:00+00:00"
+            },
+            "arrival": {
+                "airport": "Guangzhou Baiyun International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CAN",
+                "icao": "ZGGG",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "4",
+                "delay": null,
+                "scheduled": "2024-03-05T11:20:00+00:00",
+                "estimated": "2024-03-05T11:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "1351",
+                "iata": "CA1351",
+                "icao": "CCA1351",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "H21",
+                "delay": 12,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:12:00+00:00",
+                "estimated_runway": "2024-03-05T08:12:00+00:00",
+                "actual_runway": "2024-03-05T08:12:00+00:00"
+            },
+            "arrival": {
+                "airport": "Chitose",
+                "timezone": "Asia/Tokyo",
+                "iata": "CTS",
+                "icao": "RJCC",
+                "terminal": "I",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T12:40:00+00:00",
+                "estimated": "2024-03-05T12:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "169",
+                "iata": "CA169",
+                "icao": "CCA169",
+                "codeshared": null
+            },
+            "aircraft": {
+                "registration": "B-5497",
+                "iata": "B738",
+                "icao": "B738",
+                "icao24": "7805F2"
+            },
+            "live": {
+                "updated": "2024-03-05T00:16:47+00:00",
+                "latitude": 40.208,
+                "longitude": 116.687,
+                "altitude": 2499.36,
+                "direction": 142,
+                "speed_horizontal": 492.632,
+                "speed_vertical": 0,
+                "is_ground": false
+            }
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 22,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:21:00+00:00",
+                "estimated_runway": "2024-03-05T08:21:00+00:00",
+                "actual_runway": "2024-03-05T08:21:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dalian",
+                "timezone": "Asia/Shanghai",
+                "iata": "DLC",
+                "icao": "ZYTL",
+                "terminal": "I",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T09:25:00+00:00",
+                "estimated": "2024-03-05T09:25:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "153",
+                "iata": "CA153",
+                "icao": "CCA153",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 22,
+                "scheduled": "2024-03-05T08:00:00+00:00",
+                "estimated": "2024-03-05T08:00:00+00:00",
+                "actual": "2024-03-05T08:21:00+00:00",
+                "estimated_runway": "2024-03-05T08:21:00+00:00",
+                "actual_runway": "2024-03-05T08:21:00+00:00"
+            },
+            "arrival": {
+                "airport": "Dalian",
+                "timezone": "Asia/Shanghai",
+                "iata": "DLC",
+                "icao": "ZYTL",
+                "terminal": "I",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T09:25:00+00:00",
+                "estimated": "2024-03-05T09:25:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air New Zealand",
+                "iata": "NZ",
+                "icao": "ANZ"
+            },
+            "flight": {
+                "number": "3890",
+                "iata": "NZ3890",
+                "icao": "ANZ3890",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "153",
+                    "flight_iata": "ca153",
+                    "flight_icao": "cca153"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:59:00+00:00",
+                "estimated_runway": "2024-03-05T07:59:00+00:00",
+                "actual_runway": "2024-03-05T07:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tianhe International",
+                "timezone": "Asia/Shanghai",
+                "iata": "WUH",
+                "icao": "ZHHH",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "16",
+                "delay": null,
+                "scheduled": "2024-03-05T10:20:00+00:00",
+                "estimated": "2024-03-05T10:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "8202",
+                "iata": "CA8202",
+                "icao": "CCA8202",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:59:00+00:00",
+                "estimated_runway": "2024-03-05T07:59:00+00:00",
+                "actual_runway": "2024-03-05T07:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tianhe International",
+                "timezone": "Asia/Shanghai",
+                "iata": "WUH",
+                "icao": "ZHHH",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "16",
+                "delay": null,
+                "scheduled": "2024-03-05T10:20:00+00:00",
+                "estimated": "2024-03-05T10:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "4686",
+                "iata": "ZH4686",
+                "icao": "CSZ4686",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "8202",
+                    "flight_iata": "ca8202",
+                    "flight_icao": "cca8202"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:59:00+00:00",
+                "estimated_runway": "2024-03-05T07:59:00+00:00",
+                "actual_runway": "2024-03-05T07:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tianhe International",
+                "timezone": "Asia/Shanghai",
+                "iata": "WUH",
+                "icao": "ZHHH",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "16",
+                "delay": null,
+                "scheduled": "2024-03-05T10:20:00+00:00",
+                "estimated": "2024-03-05T10:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air New Zealand",
+                "iata": "NZ",
+                "icao": "ANZ"
+            },
+            "flight": {
+                "number": "3995",
+                "iata": "NZ3995",
+                "icao": "ANZ3995",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "8202",
+                    "flight_iata": "ca8202",
+                    "flight_icao": "cca8202"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:59:00+00:00",
+                "estimated_runway": "2024-03-05T07:59:00+00:00",
+                "actual_runway": "2024-03-05T07:59:00+00:00"
+            },
+            "arrival": {
+                "airport": "Tianhe International",
+                "timezone": "Asia/Shanghai",
+                "iata": "WUH",
+                "icao": "ZHHH",
+                "terminal": "3",
+                "gate": null,
+                "baggage": "16",
+                "delay": null,
+                "scheduled": "2024-03-05T10:20:00+00:00",
+                "estimated": "2024-03-05T10:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "ANA",
+                "iata": "NH",
+                "icao": "ANA"
+            },
+            "flight": {
+                "number": "5788",
+                "iata": "NH5788",
+                "icao": "ANA5788",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "8202",
+                    "flight_iata": "ca8202",
+                    "flight_icao": "cca8202"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 5,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:51:00+00:00",
+                "estimated_runway": "2024-03-05T07:51:00+00:00",
+                "actual_runway": "2024-03-05T07:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "Nanchang",
+                "timezone": "Asia/Shanghai",
+                "iata": "KHN",
+                "icao": "ZSCN",
+                "terminal": "T2",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2024-03-05T10:35:00+00:00",
+                "estimated": "2024-03-05T10:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "1537",
+                "iata": "CA1537",
+                "icao": "CCA1537",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 5,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:51:00+00:00",
+                "estimated_runway": "2024-03-05T07:51:00+00:00",
+                "actual_runway": "2024-03-05T07:51:00+00:00"
+            },
+            "arrival": {
+                "airport": "Nanchang",
+                "timezone": "Asia/Shanghai",
+                "iata": "KHN",
+                "icao": "ZSCN",
+                "terminal": "T2",
+                "gate": null,
+                "baggage": "5",
+                "delay": null,
+                "scheduled": "2024-03-05T10:35:00+00:00",
+                "estimated": "2024-03-05T10:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "1537",
+                "iata": "ZH1537",
+                "icao": "CSZ1537",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1537",
+                    "flight_iata": "ca1537",
+                    "flight_icao": "cca1537"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:53:00+00:00",
+                "estimated_runway": "2024-03-05T07:53:00+00:00",
+                "actual_runway": "2024-03-05T07:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Chongqing Jiangbei International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CKG",
+                "icao": "ZUCK",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:45:00+00:00",
+                "estimated": "2024-03-05T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "1431",
+                "iata": "CA1431",
+                "icao": "CCA1431",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T07:53:00+00:00",
+                "estimated_runway": "2024-03-05T07:53:00+00:00",
+                "actual_runway": "2024-03-05T07:53:00+00:00"
+            },
+            "arrival": {
+                "airport": "Chongqing Jiangbei International",
+                "timezone": "Asia/Shanghai",
+                "iata": "CKG",
+                "icao": "ZUCK",
+                "terminal": "3",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:45:00+00:00",
+                "estimated": "2024-03-05T10:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shandong Airlines",
+                "iata": "SC",
+                "icao": "CDG"
+            },
+            "flight": {
+                "number": "5027",
+                "iata": "SC5027",
+                "icao": "CDG5027",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1431",
+                    "flight_iata": "ca1431",
+                    "flight_icao": "cca1431"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "H17",
+                "delay": 10,
+                "scheduled": "2024-03-05T07:55:00+00:00",
+                "estimated": "2024-03-05T07:55:00+00:00",
+                "actual": "2024-03-05T08:05:00+00:00",
+                "estimated_runway": "2024-03-05T08:05:00+00:00",
+                "actual_runway": "2024-03-05T08:05:00+00:00"
+            },
+            "arrival": {
+                "airport": "Hong Kong International",
+                "timezone": "Asia/Hong_Kong",
+                "iata": "HKG",
+                "icao": "VHHH",
+                "terminal": "1",
+                "gate": null,
+                "baggage": "12",
+                "delay": null,
+                "scheduled": "2024-03-05T11:45:00+00:00",
+                "estimated": "2024-03-05T11:45:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "101",
+                "iata": "CA101",
+                "icao": "CCA101",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "C06",
+                "delay": 16,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:46:00+00:00",
+                "estimated_runway": "2024-03-05T07:46:00+00:00",
+                "actual_runway": "2024-03-05T07:46:00+00:00"
+            },
+            "arrival": {
+                "airport": "Narita International Airport",
+                "timezone": "Asia/Tokyo",
+                "iata": "NRT",
+                "icao": "RJAA",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T11:55:00+00:00",
+                "estimated": "2024-03-05T11:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Hainan Airlines",
+                "iata": "HU",
+                "icao": "CHH"
+            },
+            "flight": {
+                "number": "439",
+                "iata": "HU439",
+                "icao": "CHH439",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 15,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:44:00+00:00",
+                "estimated_runway": "2024-03-05T07:44:00+00:00",
+                "actual_runway": "2024-03-05T07:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Changchun",
+                "timezone": "Asia/Shanghai",
+                "iata": "CGQ",
+                "icao": "ZYCC",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2024-03-05T09:15:00+00:00",
+                "estimated": "2024-03-05T09:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "1609",
+                "iata": "CA1609",
+                "icao": "CCA1609",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 15,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:44:00+00:00",
+                "estimated_runway": "2024-03-05T07:44:00+00:00",
+                "actual_runway": "2024-03-05T07:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Changchun",
+                "timezone": "Asia/Shanghai",
+                "iata": "CGQ",
+                "icao": "ZYCC",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2024-03-05T09:15:00+00:00",
+                "estimated": "2024-03-05T09:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "1609",
+                "iata": "ZH1609",
+                "icao": "CSZ1609",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1609",
+                    "flight_iata": "ca1609",
+                    "flight_icao": "cca1609"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 15,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:44:00+00:00",
+                "estimated_runway": "2024-03-05T07:44:00+00:00",
+                "actual_runway": "2024-03-05T07:44:00+00:00"
+            },
+            "arrival": {
+                "airport": "Changchun",
+                "timezone": "Asia/Shanghai",
+                "iata": "CGQ",
+                "icao": "ZYCC",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "2",
+                "delay": null,
+                "scheduled": "2024-03-05T09:15:00+00:00",
+                "estimated": "2024-03-05T09:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air New Zealand",
+                "iata": "NZ",
+                "icao": "ANZ"
+            },
+            "flight": {
+                "number": "3954",
+                "iata": "NZ3954",
+                "icao": "ANZ3954",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1609",
+                    "flight_iata": "ca1609",
+                    "flight_icao": "cca1609"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 8,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:37:00+00:00",
+                "estimated_runway": "2024-03-05T07:37:00+00:00",
+                "actual_runway": "2024-03-05T07:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shanghai Hongqiao International",
+                "timezone": "Asia/Shanghai",
+                "iata": "SHA",
+                "icao": "ZSSS",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "23",
+                "delay": null,
+                "scheduled": "2024-03-05T09:55:00+00:00",
+                "estimated": "2024-03-05T09:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "1507",
+                "iata": "CA1507",
+                "icao": "CCA1507",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 8,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:37:00+00:00",
+                "estimated_runway": "2024-03-05T07:37:00+00:00",
+                "actual_runway": "2024-03-05T07:37:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shanghai Hongqiao International",
+                "timezone": "Asia/Shanghai",
+                "iata": "SHA",
+                "icao": "ZSSS",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "23",
+                "delay": null,
+                "scheduled": "2024-03-05T09:55:00+00:00",
+                "estimated": "2024-03-05T09:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "1507",
+                "iata": "ZH1507",
+                "icao": "CSZ1507",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1507",
+                    "flight_iata": "ca1507",
+                    "flight_icao": "cca1507"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 7,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:36:00+00:00",
+                "estimated_runway": "2024-03-05T07:36:00+00:00",
+                "actual_runway": "2024-03-05T07:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shuangliu",
+                "timezone": "Asia/Shanghai",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:30:00+00:00",
+                "estimated": "2024-03-05T10:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "1405",
+                "iata": "CA1405",
+                "icao": "CCA1405",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 7,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:36:00+00:00",
+                "estimated_runway": "2024-03-05T07:36:00+00:00",
+                "actual_runway": "2024-03-05T07:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shuangliu",
+                "timezone": "Asia/Shanghai",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:30:00+00:00",
+                "estimated": "2024-03-05T10:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "1405",
+                "iata": "ZH1405",
+                "icao": "CSZ1405",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1405",
+                    "flight_iata": "ca1405",
+                    "flight_icao": "cca1405"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 7,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:36:00+00:00",
+                "estimated_runway": "2024-03-05T07:36:00+00:00",
+                "actual_runway": "2024-03-05T07:36:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shuangliu",
+                "timezone": "Asia/Shanghai",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:30:00+00:00",
+                "estimated": "2024-03-05T10:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "ANA",
+                "iata": "NH",
+                "icao": "ANA"
+            },
+            "flight": {
+                "number": "5778",
+                "iata": "NH5778",
+                "icao": "ANA5778",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1405",
+                    "flight_iata": "ca1405",
+                    "flight_icao": "cca1405"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 10,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:39:00+00:00",
+                "estimated_runway": "2024-03-05T07:39:00+00:00",
+                "actual_runway": "2024-03-05T07:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Xianyang",
+                "timezone": "Asia/Shanghai",
+                "iata": "XIY",
+                "icao": "ZLXY",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T09:55:00+00:00",
+                "estimated": "2024-03-05T09:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "1231",
+                "iata": "ZH1231",
+                "icao": "CSZ1231",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1231",
+                    "flight_iata": "ca1231",
+                    "flight_icao": "cca1231"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "J,K",
+                "delay": 10,
+                "scheduled": "2024-03-05T07:30:00+00:00",
+                "estimated": "2024-03-05T07:30:00+00:00",
+                "actual": "2024-03-05T07:39:00+00:00",
+                "estimated_runway": "2024-03-05T07:39:00+00:00",
+                "actual_runway": "2024-03-05T07:39:00+00:00"
+            },
+            "arrival": {
+                "airport": "Xianyang",
+                "timezone": "Asia/Shanghai",
+                "iata": "XIY",
+                "icao": "ZLXY",
+                "terminal": "2",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T09:55:00+00:00",
+                "estimated": "2024-03-05T09:55:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shandong Airlines",
+                "iata": "SC",
+                "icao": "CDG"
+            },
+            "flight": {
+                "number": "5337",
+                "iata": "SC5337",
+                "icao": "CDG5337",
+                "codeshared": {
+                    "airline_name": "air china ltd",
+                    "airline_iata": "ca",
+                    "airline_icao": "cca",
+                    "flight_number": "1231",
+                    "flight_iata": "ca1231",
+                    "flight_icao": "cca1231"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "H01",
+                "delay": 29,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": "2024-03-05T07:54:00+00:00",
+                "estimated_runway": "2024-03-05T07:54:00+00:00",
+                "actual_runway": "2024-03-05T07:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shuangliu",
+                "timezone": "Asia/Shanghai",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "11",
+                "delay": 3,
+                "scheduled": "2024-03-05T10:20:00+00:00",
+                "estimated": "2024-03-05T10:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Sichuan Airlines",
+                "iata": "3U",
+                "icao": "CSC"
+            },
+            "flight": {
+                "number": "8890",
+                "iata": "3U8890",
+                "icao": "CSC8890",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "H01",
+                "delay": 29,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": "2024-03-05T07:54:00+00:00",
+                "estimated_runway": "2024-03-05T07:54:00+00:00",
+                "actual_runway": "2024-03-05T07:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shuangliu",
+                "timezone": "Asia/Shanghai",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "11",
+                "delay": 3,
+                "scheduled": "2024-03-05T10:20:00+00:00",
+                "estimated": "2024-03-05T10:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Xiamen Airlines",
+                "iata": "MF",
+                "icao": "CXA"
+            },
+            "flight": {
+                "number": "5600",
+                "iata": "MF5600",
+                "icao": "CXA5600",
+                "codeshared": {
+                    "airline_name": "sichuan airlines",
+                    "airline_iata": "3u",
+                    "airline_icao": "csc",
+                    "flight_number": "8890",
+                    "flight_iata": "3u8890",
+                    "flight_icao": "csc8890"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "H01",
+                "delay": 29,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": "2024-03-05T07:54:00+00:00",
+                "estimated_runway": "2024-03-05T07:54:00+00:00",
+                "actual_runway": "2024-03-05T07:54:00+00:00"
+            },
+            "arrival": {
+                "airport": "Shuangliu",
+                "timezone": "Asia/Shanghai",
+                "iata": "CTU",
+                "icao": "ZUUU",
+                "terminal": "2",
+                "gate": null,
+                "baggage": "11",
+                "delay": 3,
+                "scheduled": "2024-03-05T10:20:00+00:00",
+                "estimated": "2024-03-05T10:20:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Southern Airlines",
+                "iata": "CZ",
+                "icao": "CSN"
+            },
+            "flight": {
+                "number": "9599",
+                "iata": "CZ9599",
+                "icao": "CSN9599",
+                "codeshared": {
+                    "airline_name": "sichuan airlines",
+                    "airline_iata": "3u",
+                    "airline_icao": "csc",
+                    "flight_number": "8890",
+                    "flight_iata": "3u8890",
+                    "flight_icao": "csc8890"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "C62",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": "2024-03-05T07:28:00+00:00",
+                "estimated_runway": "2024-03-05T07:28:00+00:00",
+                "actual_runway": "2024-03-05T07:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Yichun Mingyueshan Airport",
+                "timezone": null,
+                "iata": "YIC",
+                "icao": "ZSYC",
+                "terminal": "4",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:15:00+00:00",
+                "estimated": "2024-03-05T10:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shenzhen Airlines",
+                "iata": "ZH",
+                "icao": "CSZ"
+            },
+            "flight": {
+                "number": "9112",
+                "iata": "ZH9112",
+                "icao": "CSZ9112",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "C62",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": "2024-03-05T07:28:00+00:00",
+                "estimated_runway": "2024-03-05T07:28:00+00:00",
+                "actual_runway": "2024-03-05T07:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Yichun Mingyueshan Airport",
+                "timezone": null,
+                "iata": "YIC",
+                "icao": "ZSYC",
+                "terminal": "4",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:15:00+00:00",
+                "estimated": "2024-03-05T10:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Shandong Airlines",
+                "iata": "SC",
+                "icao": "CDG"
+            },
+            "flight": {
+                "number": "9112",
+                "iata": "SC9112",
+                "icao": "CDG9112",
+                "codeshared": {
+                    "airline_name": "shenzhen airlines",
+                    "airline_iata": "zh",
+                    "airline_icao": "csz",
+                    "flight_number": "9112",
+                    "flight_iata": "zh9112",
+                    "flight_icao": "csz9112"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "3",
+                "gate": "C62",
+                "delay": 4,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": "2024-03-05T07:28:00+00:00",
+                "estimated_runway": "2024-03-05T07:28:00+00:00",
+                "actual_runway": "2024-03-05T07:28:00+00:00"
+            },
+            "arrival": {
+                "airport": "Yichun Mingyueshan Airport",
+                "timezone": null,
+                "iata": "YIC",
+                "icao": "ZSYC",
+                "terminal": "4",
+                "gate": null,
+                "baggage": null,
+                "delay": null,
+                "scheduled": "2024-03-05T10:15:00+00:00",
+                "estimated": "2024-03-05T10:15:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air China LTD",
+                "iata": "CA",
+                "icao": "CCA"
+            },
+            "flight": {
+                "number": "3412",
+                "iata": "CA3412",
+                "icao": "CCA3412",
+                "codeshared": {
+                    "airline_name": "shenzhen airlines",
+                    "airline_iata": "zh",
+                    "airline_icao": "csz",
+                    "flight_number": "9112",
+                    "flight_iata": "zh9112",
+                    "flight_icao": "csz9112"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "F01",
+                "delay": 18,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": "2024-03-05T07:43:00+00:00",
+                "estimated_runway": "2024-03-05T07:43:00+00:00",
+                "actual_runway": "2024-03-05T07:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Harbin",
+                "timezone": "Asia/Shanghai",
+                "iata": "HRB",
+                "icao": "ZYHB",
+                "terminal": "T2",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2024-03-05T09:40:00+00:00",
+                "estimated": "2024-03-05T09:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Grand China Air",
+                "iata": "CN",
+                "icao": "GDC"
+            },
+            "flight": {
+                "number": "7139",
+                "iata": "CN7139",
+                "icao": "GDC7139",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2024-03-05",
+            "flight_status": "active",
+            "departure": {
+                "airport": "Beijing Capital International",
+                "timezone": "Asia/Shanghai",
+                "iata": "PEK",
+                "icao": "ZBAA",
+                "terminal": "2",
+                "gate": "F01",
+                "delay": 18,
+                "scheduled": "2024-03-05T07:25:00+00:00",
+                "estimated": "2024-03-05T07:25:00+00:00",
+                "actual": "2024-03-05T07:43:00+00:00",
+                "estimated_runway": "2024-03-05T07:43:00+00:00",
+                "actual_runway": "2024-03-05T07:43:00+00:00"
+            },
+            "arrival": {
+                "airport": "Harbin",
+                "timezone": "Asia/Shanghai",
+                "iata": "HRB",
+                "icao": "ZYHB",
+                "terminal": "T2",
+                "gate": null,
+                "baggage": "7",
+                "delay": null,
+                "scheduled": "2024-03-05T09:40:00+00:00",
+                "estimated": "2024-03-05T09:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Hong Kong Airlines",
+                "iata": "HX",
+                "icao": "CRK"
+            },
+            "flight": {
+                "number": "1139",
+                "iata": "HX1139",
+                "icao": "CRK1139",
+                "codeshared": {
+                    "airline_name": "grand china air",
+                    "airline_iata": "cn",
+                    "airline_icao": "gdc",
+                    "flight_number": "7139",
+                    "flight_iata": "cn7139",
+                    "flight_icao": "gdc7139"
+                }
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}
